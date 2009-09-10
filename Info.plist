@@ -31,14 +31,14 @@
 		<string>You should ensure that the remote machine is setup to such that it can be woken up via network interfaces.</string>
 		<key>AMDOptions</key>
 		<string>You must supply the MAC and IP addresses for the remote machine.</string>
+		<key>AMDRequires</key>
+		<string>A remote machine setup to to be wakeable via the network</string>
 		<key>AMDResult</key>
 		<string>Passes filenames, etc through to next action</string>
 		<key>AMDSummary</key>
 		<string>Wakes a remote machine from a sleeping state</string>
 		<key>AMDWebsite</key>
 		<string>http://interblah.net/wake-remote-machine-automator-action</string>
-		<key>AMDRequires</key>
-		<string>A remote machine setup to to be wakeable via the network</string>
 	</dict>
 	<key>AMIconName</key>
 	<string></string>
@@ -78,7 +78,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>1.0, Copyright © 2009 lazyatom.com, All Rights Reserved</string>
+	<string>1.0.1, Copyright © 2009 lazyatom.com, All Rights Reserved</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
@@ -90,11 +90,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2009 lazyatom.com, All Rights Reserved.</string>
 	<key>NSPrincipalClass</key>
